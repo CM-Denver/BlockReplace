@@ -1,0 +1,7 @@
+version: 1.0
+name: BlockReplace
+main: com.william.plugin.Main
+
+author: me
+description: When a wool block is placed, it is replace with lava!
+
